@@ -1,0 +1,12 @@
+127.0.0.1 - - [19/Apr/2022:22:24:54 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:00 +0530] "GET /Ebook/ HTTP/1.1" 200 20494
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:00 +0530] "GET /Ebook/all_component/style.css HTTP/1.1" 200 161
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:01 +0530] "GET /Ebook/Book/Army2.jpg HTTP/1.1" 200 25816
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:01 +0530] "GET /Ebook/Book/indianArmy.webp HTTP/1.1" 200 9846
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:01 +0530] "GET /Ebook/Book/WhatsApp%20Image%202022-03-15%20at%208.50.22%20PM-removebg-preview.jpg HTTP/1.1" 200 35964
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:01 +0530] "GET /Ebook/Book/images.jfif HTTP/1.1" 200 11668
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:01 +0530] "GET /Ebook/Book/Screenshot%20(157).png HTTP/1.1" 200 423094
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:01 +0530] "GET /Ebook/Book/Army3.webp HTTP/1.1" 200 20996
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:01 +0530] "GET /Ebook/Book/WhatsApp%20Image%202022-03-15%20at%208.50.22%20PM.jpeg HTTP/1.1" 200 66215
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:01 +0530] "GET /Ebook/image/1.jpg HTTP/1.1" 200 195412
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:22:25:03 +0530] "GET /favicon.ico HTTP/1.1" 404 762

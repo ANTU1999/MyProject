@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+C:\Users\antum\Desktop\ExamProject\.metadata\.plugins\org.eclipse.jdt.core
+600332662.index
+3559563441.index
+1098153545.index
+3432079793.index
+860208974.index
+2585813638.index
+2956771899.index
+1381955436.index
+726798472.index
+2741814868.index

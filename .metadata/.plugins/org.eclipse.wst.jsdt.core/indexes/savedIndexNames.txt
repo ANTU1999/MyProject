@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\antum\Desktop\ExamProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3546745012.index
+3432421233.index
+2956771899.index
+399707131.index
+3817948509.index
+551919268.index
